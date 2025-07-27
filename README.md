@@ -1,6 +1,6 @@
 # Image Curator - Photo Curation App
 
-Picstoria is a photo curation app that allows users to search for images, save them to collections, add tags, and track search history using the Unsplash API. This app allows users to save their favorite images, manage tags, and view their past searches.
+Image Curator is a photo curation app that allows users to search for images, save them to collections, add tags, and track search history using the Unsplash API. This app allows users to save their favorite images, manage tags, and view their past searches.
 
 ## Project Overview
 
